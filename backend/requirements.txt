@@ -1,0 +1,23 @@
+# Web framework
+fastapi==0.135.2
+uvicorn[standard]==0.42.0
+
+# Database
+psycopg2-binary==2.9.11
+sqlalchemy==2.0.48
+
+# LLM / AI
+openai==2.30.0
+chromadb==1.5.5
+
+# Data processing
+numpy==2.4.3
+pandas==2.3.3
+xarray==2026.2.0
+netCDF4==1.7.4
+
+# HTTP
+requests==2.33.0
+
+# Config
+python-dotenv==1.2.2
